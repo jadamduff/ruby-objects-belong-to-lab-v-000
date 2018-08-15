@@ -5,4 +5,4 @@ class Post
   end
 end
 
-Post.author = author
+Post.author = Author.new
