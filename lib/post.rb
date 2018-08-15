@@ -3,6 +3,5 @@ class Post
   def initialize
 
   end
+  self.author = author
 end
-
-post.author = author
