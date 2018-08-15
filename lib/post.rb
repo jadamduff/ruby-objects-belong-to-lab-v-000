@@ -4,3 +4,5 @@ class Post
 
   end
 end
+
+post.author = author
